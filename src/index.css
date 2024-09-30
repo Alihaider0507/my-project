@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Love of Thunder';
+    src: url('/fonts/LoveOfThunder.ttf') format('truetype');
+   
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  
